@@ -11,6 +11,7 @@
     - [Installation ](#installation-)
     - [Usage ](#usage-)
   - [✍️ Authors ](#️-authors-)
+    - [👤 **Salwa Ballouti**:](#-salwa-ballouti)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [💖 Show your support ](#-show-your-support-)
@@ -34,7 +35,7 @@
   </ul>
 
 <summary>BackEnd</summary>
-<a href="https://github.com/raihan2bd/hello-world-back-end">BackEnd is here</a>
+  [BackEnd is here](https://github.com/raihan2bd/hello-world-back-end)
 
 ### Key Features <a name="key-features"></a>
 
